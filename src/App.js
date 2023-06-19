@@ -10,6 +10,7 @@ function App() {
     age : 20
   }
 
+  
   return (
     <>
     {/* App.css 파일에 있는 App 이라는 클래스 속성을 나타냄 */}
